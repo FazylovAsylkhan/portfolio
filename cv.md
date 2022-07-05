@@ -16,7 +16,7 @@
 |:---:|:---:|
 | **[Chess](https://fazylovasylkhan-jsfe2021q1.netlify.app/game)** | React, Pattern MVC, TypeScript, ESlint, Scss, BEM  | 
 | **[Match Match game](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/match-match/#about-game)** | Pattern MVC, Webpack, TypeScript, ESlint | 
-| **[Online zoo](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/match-match/#about-game)** | JS/CSS/HTML, Scss, BEM | 
+| **[Online zoo](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/online-zoo/pages/landing/)** | JS/CSS/HTML, Scss, BEM | 
 | **[Photo Filter](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/photo-filter/)** | JS | 
 | **[Virtual Piano](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/virtual-piano/)** | JS | 
 
