@@ -20,6 +20,14 @@
 | **[Photo Filter](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/photo-filter/)** | JS | 
 | **[Virtual Piano](https://rolling-scopes-school.github.io/fazylovasylkhan-JSFE2021Q1/virtual-piano/)** | JS | 
 
+<br>
+
+## **Certificates**
+
+| **About course**  | **Description** |
+|:---:|:---:|
+| **[RSSchool](https://rs.school/)** <br>*Founded by the developer community*<br>(February 2021 – July 2021) | [Learning the basics of frontend](https://app.rs.school/certificate/ekv8kixa)  | 
+
 <br><br>
 
 
